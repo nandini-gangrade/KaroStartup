@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/KaroStartup/static/css/main.059a0934.css",
+    "main.js": "/KaroStartup/static/js/main.522cc2ab.js",
+    "static/media/remixicon.svg?t=1684338274817": "/KaroStartup/static/media/remixicon.ce0e40c97bfc62e3edab.svg",
+    "static/media/remixicon.eot?t=1684338274817": "/KaroStartup/static/media/remixicon.4504b1fe216fbf391c33.eot",
+    "static/media/remixicon.ttf?t=1684338274817": "/KaroStartup/static/media/remixicon.bc494a3a1aebeea65cee.ttf",
+    "static/media/remixicon.woff?t=1684338274817": "/KaroStartup/static/media/remixicon.d7630016bbb194055f32.woff",
+    "static/media/hero-img1.png": "/KaroStartup/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/remixicon.woff2?t=1684338274817": "/KaroStartup/static/media/remixicon.082b68b860510f7036f0.woff2",
+    "static/media/testimonial01.png": "/KaroStartup/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/KaroStartup/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/KaroStartup/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/KaroStartup/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/KaroStartup/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/KaroStartup/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/KaroStartup/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/KaroStartup/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/KaroStartup/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/slick.svg": "/KaroStartup/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KaroStartup/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KaroStartup/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/KaroStartup/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/KaroStartup/index.html",
+    "main.059a0934.css.map": "/KaroStartup/static/css/main.059a0934.css.map",
+    "main.522cc2ab.js.map": "/KaroStartup/static/js/main.522cc2ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059a0934.css",
+    "static/js/main.522cc2ab.js"
+  ]
+}
